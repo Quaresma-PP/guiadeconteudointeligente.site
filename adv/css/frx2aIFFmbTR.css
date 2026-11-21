@@ -697,3 +697,32 @@ h3 span{
 
 
 
+
+@media (max-width: 767.98px) {
+  body {
+    font-size: 18px;
+  }
+
+  p {
+    font-size: 20px;
+    line-height: 1.55;
+  }
+
+  h1 {
+    font-size: 30px;
+  }
+
+  h3 {
+    font-size: 27px;
+  }
+
+  .box_result .result_comment p {
+    font-size: 17px;
+    line-height: 1.5;
+  }
+
+  .box_result .result_comment h4,
+  .texto-rodape {
+    font-size: 16px;
+  }
+}
